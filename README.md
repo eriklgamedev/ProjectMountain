@@ -1,4 +1,4 @@
-# ProjectMountain
+# ProjectMountain's procedural mountain system
 This is the procedural mountain generation system I made for project mountain. 
 The goal of the system was to generate a realistic mountain that's fun to climb. 
 The system also needed to generate contents such as enemies and other assets around the mountain. 
